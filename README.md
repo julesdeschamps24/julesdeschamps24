@@ -105,7 +105,7 @@
     </a>
     <br/>
     <!-- Lines of Code -->
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Lignes%20de%20Code&query=%24.total_lines&url=https%3A%2F%2Fapi.codetabs.com%2Fv1%2Floc%3Fgithub%3Djulesdeschamps24&style=for-the-badge&logo=visualstudiocode" alt="Lines of Code" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Lignes%20de%20Code&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcode%3Fq%3Duser%3Ajulesdeschamps24&style=for-the-badge&logo=visualstudiocode" alt="Lines of Code" />
 </div>
 <!-- END SECTION: SUMMARY_CARDS -->
 
