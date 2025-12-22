@@ -2,7 +2,7 @@
   Bienvenue sur votre README !
   
   MODE D'EMPLOI :
-  1. Si vous voulez supprimer une section, supprimez tout le bloc entre les commentaires <!-- SECTION ... -->
+  1. Si vous voulez supprimer une section, supprimez tout le bloc entre les commentaires <!-- SECTION ...
   2. Pour changer le thème, cherchez "&theme=tokyonight" et remplacez "tokyonight" par un autre (ex: dracula, dark, radical, merko, etc.)
 -->
 
