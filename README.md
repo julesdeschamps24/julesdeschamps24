@@ -22,7 +22,7 @@
     <a href="https://linkedin.com/in/-jules-" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:contact@julesdeschamps.dev">
+    <a href="mailto:julesdeschamps24@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://gitlab.com/julesdeschamps24" target="_blank">
@@ -87,17 +87,6 @@
 
 </div>
 
-<br/>
-
-<!-- Streak -->
-<div align="center">
-  
-  <!-- GitHub Streak -->
-  <a href="https://github.com/git-streak-tracker/git-streak-tracker">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=julesdeschamps24&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-
-</div>
 <!-- END SECTION: STATS -->
 
 ---
