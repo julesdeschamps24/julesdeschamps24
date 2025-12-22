@@ -93,7 +93,6 @@
 <!-- END SECTION: STATS -->
 
 ---
-le snake beug et sort parfois des dates
 <!-- SNAKE ANIMATION -->
 <!-- SECTION: SNAKE -->
 ### 🐍 Mon activité en un coup d'œil
