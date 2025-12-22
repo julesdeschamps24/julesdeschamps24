@@ -99,10 +99,13 @@
 <div align="center">
     <br/>
     <h3>📝 Résumé de mon activité</h3>
-    <!-- Productive Time Card -->
+    <!-- Profile Details -->
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julesdeschamps24&theme=tokyonight" alt="Profile Details" />
     </a>
+    <br/>
+    <!-- Lines of Code -->
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Lignes%20de%20Code&query=%24.total_lines&url=https%3A%2F%2Fapi.codetabs.com%2Fv1%2Floc%3Fgithub%3Djulesdeschamps24&style=for-the-badge&logo=visualstudiocode" alt="Lines of Code" />
 </div>
 <!-- END SECTION: SUMMARY_CARDS -->
 
