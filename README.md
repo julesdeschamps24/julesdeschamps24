@@ -34,9 +34,6 @@
     <a href="https://gitlab.com/julesdeschamps24" target="_blank">
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     </a>
-    <a href="https://julesdeschamps.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
-    </a>
   </p>
   <!-- END SECTION: HEADER -->
 
