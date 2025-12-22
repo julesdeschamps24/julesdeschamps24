@@ -78,6 +78,10 @@
 
 <div align="center">
   
+  <!-- Stats Globales -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julesdeschamps24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
   
   <!-- Langages les plus utilisés -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -89,8 +93,7 @@
 <!-- END SECTION: STATS -->
 
 ---
-
-
+le snake beug et sort parfois des dates
 <!-- SNAKE ANIMATION -->
 <!-- SECTION: SNAKE -->
 ### 🐍 Mon activité en un coup d'œil
@@ -100,7 +103,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 <!-- END SECTION: SNAKE -->
