@@ -78,10 +78,6 @@
 
 <div align="center">
   
-  <!-- Stats Globales -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julesdeschamps24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
   
   <!-- Langages les plus utilisés -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -94,22 +90,6 @@
 
 ---
 
-<!-- PROFILE SUMMARY CARDS -->
-<!-- SECTION: SUMMARY_CARDS -->
-<div align="center">
-    <br/>
-    <h3>📝 Résumé de mon activité</h3>
-    <!-- Profile Details -->
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julesdeschamps24&theme=tokyonight" alt="Profile Details" />
-    </a>
-    <br/>
-    <!-- Lines of Code -->
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Lignes%20de%20Code&query=%24.total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcode%3Fq%3Duser%3Ajulesdeschamps24&style=for-the-badge&logo=visualstudiocode" alt="Lines of Code" />
-</div>
-<!-- END SECTION: SUMMARY_CARDS -->
-
----
 
 <!-- SNAKE ANIMATION -->
 <!-- SECTION: SNAKE -->
