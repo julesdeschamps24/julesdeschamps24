@@ -17,6 +17,12 @@
     <em>"Passionné par la compréhension approfondie des systèmes afin de concevoir des applications web fiables et bien structurées."</em>
   </p>
 
+  <br/>
+  <a href="https://julesdeschamps.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Voir_mon_Portfolio_Complet-FF5722?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="Portfolio" />
+  </a>
+  <br/>
+
   <!-- SOCIALS -->
   <p>
     <a href="https://linkedin.com/in/-jules-" target="_blank">
@@ -105,19 +111,6 @@
 </div>
 <!-- END SECTION: SNAKE -->
 
----
-
-<!-- PROJECTS SHOWCASE -->
-<!-- SECTION: PROJECTS -->
-### 🚀 Projets Phares
-
-| Motion Design – Asana | Cinematic – Sport Avenue |
-| :---: | :---: |
-| **Exploration graphique en basse lumière avec effets de lueurs.** <br/> *Motion Design* | **Sequence narrative pour tester la narration visuelle.** <br/> *Vidéo* |
-| <img src="https://julesdeschamps.dev/assets/images/projects/asana.gif" width="100%" alt="Motion Design Asana Demo"> | <img src="https://julesdeschamps.dev/assets/images/projects/sport-avenue.gif" width="100%" alt="Sport Avenue Demo"> |
-| [Voir le Projet](https://julesdeschamps.dev/#projets) | [Voir le Projet](https://julesdeschamps.dev/#projets) |
-
-<!-- END SECTION: PROJECTS -->
 
 <br/>
 
