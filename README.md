@@ -94,6 +94,20 @@
 
 ---
 
+<!-- PROFILE SUMMARY CARDS -->
+<!-- SECTION: SUMMARY_CARDS -->
+<div align="center">
+    <br/>
+    <h3>📝 Résumé de mon activité</h3>
+    <!-- Productive Time Card -->
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julesdeschamps24&theme=tokyonight" alt="Profile Details" />
+    </a>
+</div>
+<!-- END SECTION: SUMMARY_CARDS -->
+
+---
+
 <!-- SNAKE ANIMATION -->
 <!-- SECTION: SNAKE -->
 ### 🐍 Mon activité en un coup d'œil
