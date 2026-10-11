@@ -3,7 +3,7 @@
   
   MODE D'EMPLOI :
   1. Si vous voulez supprimer une section, supprimez tout le bloc entre les commentaires <!-- SECTION ...
-  2. Pour changer le thème, cherchez "&theme=tokyonight" et remplacez "tokyonight" par un autre (ex: dracula, dark, radical, merko, etc.)
+  2. Pour changer le thème des stats, cherchez "&theme=tokyonight" dans .github/workflows/snake.yml et remplacez "tokyonight" par un autre (ex: dracula, dark, radical, merko, etc.)
 -->
 
 <div align="center">
@@ -79,13 +79,13 @@
 <div align="center">
   
   <!-- Stats Globales -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julesdeschamps24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/stats-organization/github-readme-stats-action">
+    <img height="180em" src="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/stats.svg"/>
   </a>
   
   <!-- Langages les plus utilisés -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julesdeschamps24&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/stats-organization/github-readme-stats-action">
+    <img height="180em" src="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/top-langs.svg"/>
   </a>
 
 </div>
