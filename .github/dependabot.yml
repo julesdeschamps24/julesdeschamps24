@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # keeps the actions used in .github/workflows up to date (SHA pins + version comment)
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    cooldown:
+      default-days: 7
+    groups:
+      actions:
+        patterns:
+          - "*"
