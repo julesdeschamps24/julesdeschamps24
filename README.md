@@ -3,7 +3,6 @@
   
   MODE D'EMPLOI :
   1. Si vous voulez supprimer une section, supprimez tout le bloc entre les commentaires <!-- SECTION ...
-  2. Pour changer le thème des stats, cherchez "&theme=tokyonight" dans .github/workflows/snake.yml et remplacez "tokyonight" par un autre (ex: dracula, dark, radical, merko, etc.)
 -->
 
 <div align="center">
@@ -72,27 +71,6 @@
 
 ---
 
-<!-- GITHUB STATS -->
-<!-- SECTION: STATS -->
-### 📊 Mes Statistiques GitHub
-
-<div align="center">
-  
-  <!-- Stats Globales -->
-  <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img height="180em" src="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/stats.svg"/>
-  </a>
-  
-  <!-- Langages les plus utilisés -->
-  <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img height="180em" src="https://raw.githubusercontent.com/julesdeschamps24/julesdeschamps24/output/top-langs.svg"/>
-  </a>
-
-</div>
-
-<!-- END SECTION: STATS -->
-
----
 <!-- SNAKE ANIMATION -->
 <!-- SECTION: SNAKE -->
 ### 🐍 Mon activité en un coup d'œil
