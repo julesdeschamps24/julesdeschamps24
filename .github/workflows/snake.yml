@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile cards
 
 on:
   # run automatically every 24 hours
@@ -31,9 +31,27 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # generates the stats cards as static svg (the public github-readme-stats instance is rate limited)
+      # fail_on_error keeps the previous cards on the output branch instead of publishing an error card
+      - name: generate stats.svg
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+          path: dist/stats.svg
+          fail_on_error: true
+
+      - name: generate top-langs.svg
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
+          path: dist/top-langs.svg
+          fail_on_error: true
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push generated svg files to the output branch
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
